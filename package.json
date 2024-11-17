@@ -25,7 +25,7 @@
     "test"
   ],
   "dependencies": {
-    "execa": "^0.7.0",
+    "execa": "git+https://github.com/iceriver102/execa.git",
     "executable": "^4.1.0"
   },
   "devDependencies": {
